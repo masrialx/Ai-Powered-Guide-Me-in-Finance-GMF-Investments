@@ -5,3 +5,5 @@ numpy
 matplotlib
 statsmodels
 seaborn
+pmdarima
+scikit-learn
